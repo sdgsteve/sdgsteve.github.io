@@ -19,6 +19,8 @@ console.log(total); // 3
 
 zebra -->
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/images/g108-3-300x300.png)
+
 # This is the 5000 document
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
